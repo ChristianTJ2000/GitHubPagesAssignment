@@ -1,1 +1,38 @@
-# GitHubPagesAssignment
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christian Jackson - Business Analytics Student</title>
+    <!-- Add any additional styling or links to external stylesheets here -->
+</head>
+
+<body>
+
+    <header>
+        <h1>Christian Jackson</h1>
+        <p>Master of Business Analytics Student</p>
+        <p>Graduate Teaching Assistant, Marketing Department</p>
+    </header>
+
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>Hello, I'm Christian Jackson, a passionate Master of Business Analytics student at the University of Iowa. My academic journey involves diving deep into the world of analytics, where I explore data-driven solutions to real-world business challenges.</p>
+    </section>
+
+    <section id="teaching-assistant">
+        <h2>Teaching Assistant Role</h2>
+        <p>As a Graduate Teaching Assistant in the Marketing Department, I have the privilege of assisting with the MKTG3100 Marketing Research course. In this role, I contribute to the learning experiences of students, helping them develop crucial skills in marketing research and analysis.</p>
+    </section>
+
+    <!-- Add more sections as needed, such as education, skills, projects, etc. -->
+
+    <footer>
+        <p>Contact me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <!-- Add links to your social media profiles if desired -->
+    </footer>
+
+</body>
+
+</html>
